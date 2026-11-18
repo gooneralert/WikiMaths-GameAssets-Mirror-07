@@ -1,0 +1,15 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/gamefile/shift.html": "/shift.html",
+  "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data.part1": "/__external__/cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data.part1",
+  "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data.part2": "/__external__/cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data.part2",
+  "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data.part3": "/__external__/cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data.part3",
+  "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data.part4": "/__external__/cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data.part4",
+  "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data.part5": "/__external__/cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data.part5",
+  "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.framework.js": "/__external__/cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.framework.js",
+  "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.loader.js": "/__external__/cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.loader.js",
+  "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.wasm.part1": "/__external__/cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.wasm.part1",
+  "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.wasm.part2": "/__external__/cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.wasm.part2",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/gamefile/shift.html": "/shift.html"
+}

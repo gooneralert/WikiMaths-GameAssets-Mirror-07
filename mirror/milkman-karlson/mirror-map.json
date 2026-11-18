@@ -1,0 +1,22 @@
+{
+  "/404": "/Build/.unityweb.html",
+  "/css/404.css": "/__site__/css/404.css",
+  "/games/milk/Build/.unityweb": "/Build/.unityweb.html",
+  "/games/milk/Build/UnityLoader.js": "/Build/UnityLoader.js",
+  "/games/milk/Build/truffled.data.unityweb": "/Build/truffled.data.unityweb",
+  "/games/milk/Build/truffled.json": "/Build/truffled.json",
+  "/games/milk/Build/truffled.wasm.code.unityweb": "/Build/truffled.wasm.code.unityweb",
+  "/games/milk/Build/truffled.wasm.framework.unityweb": "/Build/truffled.wasm.framework.unityweb",
+  "/games/milk/index.html": "/index.html",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://truffled.lol/404": "/Build/.unityweb.html",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/games/milk/Build/.unityweb": "/Build/.unityweb.html",
+  "https://truffled.lol/games/milk/Build/UnityLoader.js": "/Build/UnityLoader.js",
+  "https://truffled.lol/games/milk/Build/truffled.data.unityweb": "/Build/truffled.data.unityweb",
+  "https://truffled.lol/games/milk/Build/truffled.json": "/Build/truffled.json",
+  "https://truffled.lol/games/milk/Build/truffled.wasm.code.unityweb": "/Build/truffled.wasm.code.unityweb",
+  "https://truffled.lol/games/milk/Build/truffled.wasm.framework.unityweb": "/Build/truffled.wasm.framework.unityweb",
+  "https://truffled.lol/games/milk/index.html": "/index.html",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

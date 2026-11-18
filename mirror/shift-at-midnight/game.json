@@ -1,0 +1,86 @@
+{
+  "slug": "shift-at-midnight",
+  "title": "Shift At Midnight",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/shift.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/shift.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/shift.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/shift.html",
+  "entryUrl": "https://truffled.lol/gamefile/shift.html",
+  "status": "done",
+  "sizeBytes": 137631795,
+  "assetCount": 13,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data",
+    "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/ShiftAtMidnightPort.data",
+    "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.wasm",
+    "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/ShiftAtMidnightPort.wasm",
+    "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/ShiftAtMidnightPort.framework.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/ShiftAtMidnightPort.framework.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/ShiftAtMidnightPort.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/ShiftAtMidnightPort.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/ShiftAtMidnightPort.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/ShiftAtMidnightPort.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/ShiftAtMidnightPort.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/ShiftAtMidnightPort.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/ShiftAtMidnightPort.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/build.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/slqntdevss/ShiftAtMidnightPort@9d5cffa1e1b7ca2e35e1fb6154c77eb87c4f0a4a/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T21:02:10.776Z",
+  "verifiedAt": "2026-11-17T21:02:26.033Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Unity Web Player | Shift at Midnight",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9833,
+    "rendered": true
+  }
+}

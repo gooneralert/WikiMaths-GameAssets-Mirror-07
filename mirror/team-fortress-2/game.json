@@ -1,0 +1,64 @@
+{
+  "slug": "team-fortress-2",
+  "title": "Team Fortress 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/tf2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/tf2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/tf2.webp",
+  "baseUrl": "https://truffled.lol/games/tf2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/tf2/index.html",
+  "status": "done",
+  "sizeBytes": 134663219,
+  "assetCount": 40,
+  "known404": [
+    "https://truffled.lol/games/tf2/autobuy.txt",
+    "https://truffled.lol/games/tf2/rebuy.txt",
+    "https://truffled.lol/games/tf2/GOT.mem"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/tf2/autobuy.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/tf2/autobuy.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/tf2/rebuy.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/tf2/rebuy.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/tf2/GOT.mem",
+      "error": "HTTP 404 for https://truffled.lol/games/tf2/GOT.mem",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T00:21:33.110Z",
+  "verifiedAt": "2026-11-18T00:21:44.582Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Team Fortress 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0163,
+    "rendered": true
+  }
+}
