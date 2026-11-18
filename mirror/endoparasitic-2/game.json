@@ -1,0 +1,111 @@
+{
+  "slug": "endoparasitic-2",
+  "title": "Endoparasitic 2",
+  "type": "HTML",
+  "developer": "Miziziziz",
+  "description": "Three limbs ripped off, infected with a deadly parasite, you must survive. Drag yourself through the hallways of an infested arcship, fight off twisted eldritch creatures, craft vaccines and ammunition, and escape to civilization. Endoparasitic 2 is the continuation of the tactical survival horror game Endoparasitic. You must manually do every action from reloading to moving. Juggle movement and firing and learn your environment to avoid getting swarmed. Gather materials to craft ammo for your weapons and synthesize vaccines to fight of the parasite.",
+  "tags": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Horror",
+    "Survival",
+    "Crafting"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "218acb41-23b8-4f79-b2cb-7e6d4c386478",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/index.html",
+  "status": "done",
+  "sizeBytes": 131362356,
+  "assetCount": 26,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/index.pck",
+    "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/index.wasm",
+    "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/godot.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.audio.position.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.js",
+    "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/godot.audio.position.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/godot.web.template_release.wasm32.nothreads.wasm",
+    "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.side.wasm",
+    "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/index.pck",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/index.pck",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/index.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/index.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.audio.position.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/godot.audio.position.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/godot.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/godot.web.template_release.wasm32.nothreads.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/godot.web.template_release.wasm32.nothreads.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.side.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/218acb41-23b8-4f79-b2cb-7e6d4c386478/1/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:13:25.952Z",
+  "verifiedAt": "2026-11-16T15:28:05.397Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 3,
+    "title": "Endoparasitic2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.5652,
+    "rendered": true
+  }
+}

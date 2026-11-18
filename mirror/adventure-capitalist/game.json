@@ -1,0 +1,104 @@
+{
+  "slug": "adventure-capitalist",
+  "title": "Adventure Capitalist",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/adventure/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/games/adventure/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/adventure/index.html",
+  "status": "done",
+  "sizeBytes": 129695006,
+  "assetCount": 42,
+  "known404": [
+    "https://truffled.lol/games/adventure/Release/datafile_webgl.data",
+    "https://truffled.lol/games/adventure/TemplateData/progressEmpty.Light.png",
+    "https://truffled.lol/games/adventure/TemplateData/progressLogo.Light.png",
+    "https://truffled.lol/games/adventure/TemplateData/progressLogo.Dark.png",
+    "https://truffled.lol/games/adventure/TemplateData/progressFull.Light.png",
+    "https://truffled.lol/games/adventure/TemplateData/progressEmpty.Dark.png",
+    "https://truffled.lol/games/adventure/TemplateData/webgl-logo.png",
+    "https://truffled.lol/games/adventure/TemplateData/fullscreen.png",
+    "https://truffled.lol/games/adventure/TemplateData/progressFull.Dark.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/adventure/Release/datafile_webgl.data",
+      "error": "HTTP 404 for https://truffled.lol/games/adventure/Release/datafile_webgl.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/adventure/TemplateData/progressEmpty.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/adventure/TemplateData/progressEmpty.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/adventure/TemplateData/progressLogo.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/adventure/TemplateData/progressLogo.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/adventure/TemplateData/progressLogo.Dark.png",
+      "error": "HTTP 404 for https://truffled.lol/games/adventure/TemplateData/progressLogo.Dark.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/adventure/TemplateData/progressFull.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/adventure/TemplateData/progressFull.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/adventure/TemplateData/progressEmpty.Dark.png",
+      "error": "HTTP 404 for https://truffled.lol/games/adventure/TemplateData/progressEmpty.Dark.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/adventure/TemplateData/webgl-logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/adventure/TemplateData/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/adventure/TemplateData/fullscreen.png",
+      "error": "HTTP 404 for https://truffled.lol/games/adventure/TemplateData/fullscreen.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/adventure/TemplateData/progressFull.Dark.png",
+      "error": "HTTP 404 for https://truffled.lol/games/adventure/TemplateData/progressFull.Dark.png",
+      "status": 404
+    },
+    {
+      "url": "http://cdn.hyperhippo.ca/adventure-capitalist/special-events/current_events.txt?t=0",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-16T12:49:42.895Z",
+  "verifiedAt": "2026-11-17T06:21:18.525Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity WebGL Player | AdVenture Capitalist!",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9835,
+    "rendered": true
+  }
+}

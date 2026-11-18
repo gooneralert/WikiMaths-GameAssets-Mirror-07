@@ -1,0 +1,28 @@
+{
+  "mirror/milkman-karlson/Build/truffled.data.unityweb": {
+    "size": 101877794,
+    "parts": [
+      {
+        "path": "mirror/milkman-karlson/Build/truffled.data.unityweb.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/milkman-karlson/Build/truffled.data.unityweb.part002",
+        "size": 11877794
+      }
+    ]
+  },
+  "mirror/the-binding-of-isaac-rebirth/rom.iso": {
+    "size": 134742016,
+    "parts": [
+      {
+        "path": "mirror/the-binding-of-isaac-rebirth/rom.iso.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/the-binding-of-isaac-rebirth/rom.iso.part002",
+        "size": 44742016
+      }
+    ]
+  }
+}

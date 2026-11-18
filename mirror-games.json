@@ -1,0 +1,374 @@
+[
+  {
+    "slug": "baldis-basics-plus",
+    "title": "Baldi's Basics Plus",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "Basically Games",
+    "description": "Baldi's BasicsÂ® Plus is an active stealth roguelike that parodies cheap '90s edutainment with a subtle horror twist! Play Hide & Seek with Baldi as he chases you through procedurally generated levels while using your surroundings, items, and game knowledge to shift chaos in your favor.",
+    "tags": [
+      "Horror",
+      "Procedural Generation",
+      "Retro",
+      "Roguelike",
+      "Indie"
+    ],
+    "controls": [
+      {
+        "action": "Forward",
+        "keys": [
+          {
+            "key": "ArrowUp",
+            "keyCode": 38
+          },
+          {
+            "key": "KeyW",
+            "keyCode": 87
+          }
+        ]
+      },
+      {
+        "action": "Backward",
+        "keys": [
+          {
+            "key": "ArrowDown",
+            "keyCode": 40
+          },
+          {
+            "key": "KeyS",
+            "keyCode": 83
+          }
+        ]
+      },
+      {
+        "action": "Right",
+        "keys": [
+          {
+            "key": "ArrowRight",
+            "keyCode": 39
+          },
+          {
+            "key": "KeyD",
+            "keyCode": 68
+          }
+        ]
+      },
+      {
+        "action": "Left",
+        "keys": [
+          {
+            "key": "KeyA",
+            "keyCode": 65
+          },
+          {
+            "key": "ArrowLeft",
+            "keyCode": 37
+          }
+        ]
+      },
+      {
+        "action": "Pause",
+        "keys": [
+          {
+            "key": "Escape",
+            "keyCode": 27
+          }
+        ]
+      },
+      {
+        "action": "Map",
+        "keys": [
+          {
+            "key": "KeyM",
+            "keyCode": 77
+          }
+        ]
+      },
+      {
+        "action": "Inventory",
+        "keys": [
+          {
+            "key": "Digit1",
+            "keyCode": 49
+          },
+          {
+            "key": "Digit2",
+            "keyCode": 50
+          },
+          {
+            "key": "Digit3",
+            "keyCode": 51
+          },
+          {
+            "key": "Digit4",
+            "keyCode": 52
+          },
+          {
+            "key": "Digit5",
+            "keyCode": 53
+          }
+        ]
+      }
+    ],
+    "gamepadControls": [
+      {
+        "action": "Forward",
+        "axes": [
+          {
+            "index": 1,
+            "direction": -1
+          }
+        ]
+      },
+      {
+        "action": "Backward",
+        "axes": [
+          {
+            "index": 1,
+            "direction": 1
+          }
+        ]
+      },
+      {
+        "action": "Right",
+        "axes": [
+          {
+            "index": 0,
+            "direction": 1
+          }
+        ]
+      },
+      {
+        "action": "Left",
+        "axes": [
+          {
+            "index": 0,
+            "direction": -1
+          }
+        ]
+      },
+      {
+        "action": "Pause",
+        "buttons": [
+          9
+        ]
+      },
+      {
+        "action": "Map",
+        "buttons": [
+          8
+        ]
+      },
+      {
+        "action": "Swap Inventory",
+        "buttons": [
+          4
+        ]
+      },
+      {
+        "action": "Look Behind",
+        "buttons": [
+          3
+        ]
+      },
+      {
+        "action": "Quick Map",
+        "buttons": [
+          1
+        ]
+      },
+      {
+        "action": "Select",
+        "buttons": [
+          0
+        ]
+      }
+    ],
+    "controllerSupport": true,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 124988113,
+    "thumbnail": "/thumbs/obsidian/baldis-basics-plus.webp"
+  },
+  {
+    "slug": "bart-bash",
+    "title": "Bart Bash",
+    "type": "HTML",
+    "entry": "/bartbash.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 126377320,
+    "thumbnail": "/thumbs/truffled/bart-bash.webp"
+  },
+  {
+    "slug": "whos-your-daddy",
+    "title": "Who's Your Daddy",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 126650105,
+    "thumbnail": ""
+  },
+  {
+    "slug": "60-seconds",
+    "title": "60 Seconds",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 126744683,
+    "thumbnail": ""
+  },
+  {
+    "slug": "adventure-capitalist",
+    "title": "Adventure Capitalist",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 129695006,
+    "thumbnail": "/thumbs/truffled/adventure-capitalist.webp"
+  },
+  {
+    "slug": "milkman-karlson",
+    "title": "Milkman karlson",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 130179939,
+    "thumbnail": ""
+  },
+  {
+    "slug": "endoparasitic-2",
+    "title": "Endoparasitic 2",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "Miziziziz",
+    "description": "Three limbs ripped off, infected with a deadly parasite, you must survive. Drag yourself through the hallways of an infested arcship, fight off twisted eldritch creatures, craft vaccines and ammunition, and escape to civilization. Endoparasitic 2 is the continuation of the tactical survival horror game Endoparasitic. You must manually do every action from reloading to moving. Juggle movement and firing and learn your environment to avoid getting swarmed. Gather materials to craft ammo for your weapons and synthesize vaccines to fight of the parasite.",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Horror",
+      "Survival",
+      "Crafting"
+    ],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 131362356,
+    "thumbnail": "/thumbs/obsidian/endoparasitic-2.webp"
+  },
+  {
+    "slug": "team-fortress-2",
+    "title": "Team Fortress 2",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 134663219,
+    "thumbnail": ""
+  },
+  {
+    "slug": "the-binding-of-isaac-rebirth",
+    "title": "The Binding of Isaac: Rebirth",
+    "type": "Emulation",
+    "entry": "/index.html",
+    "developer": "Edmund McMillen",
+    "description": "The Binding of Isaac: Rebirth is the ultimate of remakes with an all-new highly efficient game engine (expect 60fps on most PCs), all-new hand-drawn pixel style artwork, highly polished visual effects, all-new soundtrack and audio by the the sexy Ridiculon duo Matthias Bossi + Jon Evans. Oh yeah, and hundreds upon hundreds of designs, redesigns and re-tuned enhancements by series creator, Edmund McMillen. Did we mention the poop?",
+    "tags": [
+      "2D",
+      "Action",
+      "Dark",
+      "Indie",
+      "Roguelike",
+      "Singleplayer"
+    ],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 134742016,
+    "thumbnail": "/thumbs/obsidian/the-binding-of-isaac-rebirth.webp"
+  },
+  {
+    "slug": "angry-birds-2",
+    "title": "Angry Birds 2",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "Rovio Entertainment",
+    "description": "The birds are back and angrier than ever. Launch your flock from the slingshot, pick the right bird for every situation, and topple the pigs' towering fortresses across hundreds of physics-based puzzles.",
+    "tags": [
+      "Puzzle",
+      "Casual",
+      "Physics",
+      "Cartoon",
+      "Family Friendly",
+      "Arcade"
+    ],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 135538626,
+    "thumbnail": "/thumbs/obsidian/angry-birds-2.webp"
+  },
+  {
+    "slug": "shift-at-midnight",
+    "title": "Shift At Midnight",
+    "type": "HTML",
+    "entry": "/shift.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 137631795,
+    "thumbnail": ""
+  }
+]

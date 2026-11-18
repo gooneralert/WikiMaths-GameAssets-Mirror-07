@@ -1,0 +1,52 @@
+{
+  "slug": "60-seconds",
+  "title": "60 Seconds",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/60/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/60/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/60.webp",
+  "baseUrl": "https://truffled.lol/games/60/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/60/index.html",
+  "status": "done",
+  "sizeBytes": 126744683,
+  "assetCount": 28,
+  "known404": [
+    "https://truffled.lol/Build.loader.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/Build.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/Build.loader.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T14:10:32.345Z",
+  "verifiedAt": "2026-11-16T12:41:59.395Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 4,
+    "title": "60 Seconds - Web",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8627,
+    "rendered": true
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "bart-bash",
+  "title": "Bart Bash",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/bartbash.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/bartbash.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/bartbash.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/bartbash.html",
+  "entryUrl": "https://truffled.lol/gamefile/bartbash.html",
+  "status": "done",
+  "sizeBytes": 126377320,
+  "assetCount": 14,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/index.pck",
+    "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/index.wasm",
+    "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/godot.audio.position.worklet.js",
+    "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.mp3",
+    "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.wav",
+    "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.ogg",
+    "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/godot.audio.worklet.js",
+    "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.side.wasm",
+    "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.audio.worklet.js",
+    "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.audio.position.worklet.js",
+    "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/index.pck",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/index.pck",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/index.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/index.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/godot.audio.position.worklet.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/godot.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.side.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.audio.worklet.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.audio.position.worklet.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/67-Factory/web-ports@main/stupidbartbash/.wasm",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-10-30T14:48:39.078Z",
+  "verifiedAt": "2026-11-16T13:36:01.576Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "bartbash",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.6545,
+    "rendered": true
+  }
+}
